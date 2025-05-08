@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/konrad/Exercism/c/brocode-tutorial/8'
+relocations:     []
+...
